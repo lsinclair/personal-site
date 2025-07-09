@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Luke Sinclair'
+theme = 'hugo-theme-stack'
+
+defaultContentLanguage = "en"
+
+# Change it to your Disqus shortname before using
+disqusShortname = "hugo-theme-stack"
+
+[pagination]
+pagerSize = 5
